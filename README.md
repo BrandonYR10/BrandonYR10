@@ -53,6 +53,6 @@ I have knowledge and experience in:
 
 
 <h2> Streak Stats </h2>
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonYR10&theme=algolia" alt="BrandonYR10"  /></p>
 
