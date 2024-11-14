@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./capturaportada.png" width='100%' align="center"/>
+<img alt="Night Coding" src="./" width='100%' align="center"/>
 
 
 <h2>About Me</h2>
