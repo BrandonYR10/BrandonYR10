@@ -44,21 +44,6 @@ I have knowledge and experience in:
 
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-<h2> Streak Stats </h2>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonYR10&theme=algolia" alt="BrandonYR10"  /></p>
-<br>
-
-
-<h2> Prueba </h2>
-
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -147,5 +132,12 @@ I have knowledge and experience in:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   </kbd>
 </p>
+
+<h2> Streak Stats </h2>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonYR10&theme=algolia" alt="BrandonYR10"  /></p>
+<br>
+
+
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
