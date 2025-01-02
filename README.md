@@ -11,9 +11,9 @@ I am a Systems Engineering student, I am interested in building systems that sol
 
 I have knowledge and experience in:
   
-- ⚡ Web and mobile development
+- ⚡ Fullstack development
   
-- ⚡ Data analysis
+- ⚡ QA Automator
   
 - ⚡ Cloud infrastructure management
   
