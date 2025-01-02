@@ -55,13 +55,7 @@ I have knowledge and experience in:
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
   </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-  </kbd>
+ 
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -83,14 +77,7 @@ I have knowledge and experience in:
   </kbd>
   <br>
   <br>
-  <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
+
  
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
