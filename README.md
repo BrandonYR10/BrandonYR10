@@ -7,7 +7,7 @@
 <p><img align="right" src="./desarrollador.gif" alt="adam-pw" /></p>
 
 <br>
-I am a Systems Engineering student, I am interested in building systems that solve and optimize processes to improve the user experience, applying my skills both in creating applications and in managing cloud infrastructures. I am constantly learning to keep up to date with new technologies and improve my capabilities in the field of technological development and analysis.
+I am a Systems Engineering, I am interested in building systems that solve and optimize processes to improve the user experience, applying my skills both in creating applications and in managing cloud infrastructures. I am constantly learning to keep up to date with new technologies and improve my capabilities in the field of technological development and analysis.
 
 I have knowledge and experience in:
   
